@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "home-work-11-js",
   "main": "index.js",
+  "homepage": "https://github.com/VitaliiPrykhodko/goit-js-hw-11-color-switch",
+
   "scripts": {
     "dev": "index.html"
   },
@@ -15,6 +17,5 @@
   "bugs": {
     "url": "https://github.com/VitaliiPrykhodko/goit-js-hw-11-color-switch/issues"
   },
-  "homepage": "https://github.com/VitaliiPrykhodko/goit-js-hw-11-color-switch",
   "dependencies": {}
 }
